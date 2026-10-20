@@ -1,0 +1,33 @@
+
+CUSTOMER SEGMENTATION ANALYSIS REPORT
+
+1. PROJECT OVERVIEW
+Analyzed 200 customer records to understand customer demographics,
+annual income, and spending behavior.
+
+2. KEY FINDINGS
+- Total customers: 200
+- Average customer age: 38.85 years
+- Average annual income: 60.56 (in thousands of dollars)
+- Average spending score: 50.20 out of 100
+
+3. CUSTOMER SEGMENTS
+- Average or Mixed: 80 customers
+- High Income, High Spending: 38 customers
+- High Income, Low Spending: 37 customers
+- Low Income, High Spending: 23 customers
+- Low Income, Low Spending: 22 customers
+
+4. BUSINESS RECOMMENDATIONS
+- Test loyalty rewards for high-income, high-spending customers.
+- Test targeted promotions for high-income, low-spending customers.
+- Explore affordable offers for low-income customers.
+- Analyze the mixed group further before making assumptions.
+
+5. TOOLS USED
+Python, Pandas, Matplotlib, Jupyter Notebook.
+
+6. LIMITATIONS
+These are rule-based customer segments using selected income
+and spending thresholds. They are exploratory and do not prove
+that customer characteristics cause spending behavior.
